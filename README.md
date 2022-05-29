@@ -14,7 +14,6 @@
 ![Android](https://github.com/ThorinChen/Waterfall_Component_React/blob/main/preview/android.gif)
 
 
-
 ### Getting started
 #### 1.install
 ```
