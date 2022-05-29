@@ -5,13 +5,13 @@
  IOS App Preview
  ========
 
-![iOS](https://github.com/ThorinChen/Waterfall_Component_React/blob/main/preview/ios.gif)
+![iOS](ios.gif)
 
  Android App Preview
  =========
 
 
-![Android](https://github.com/ThorinChen/Waterfall_Component_React/blob/main/preview/android.gif)
+![Android](android.gif)
 
 
 ### Getting started
