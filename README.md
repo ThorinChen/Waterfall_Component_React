@@ -5,13 +5,13 @@
  IOS App Preview
  ========
 
-![iOS](./preview/ios.gif)
+![iOS](https://github.com/ThorinChen/Waterfall_Component_React/blob/main/preview/ios.gif)
 
  Android App Preview
  =========
 
 
-![Android](./preview/android.gif)
+![Android](https://github.com/ThorinChen/Waterfall_Component_React/blob/main/preview/android.gif)
 
 
 
@@ -76,4 +76,4 @@ this.refs.waterfall.clear();
 
 
 #### Example
- **Demo source：[click](https://github.com/ThorinChen/Waterfall_Component_React/example/index.js)**
+ **Demo source：[click](https://github.com/ThorinChen/Waterfall_Component_React/blob/main/example/index.js)**
